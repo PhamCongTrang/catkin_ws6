@@ -1,0 +1,6 @@
+devel_space: /home/trang/catkin_ws6/devel
+install: false
+install_space: /home/trang/catkin_ws6/install
+profile: default
+source_space: /home/trang/catkin_ws6/src
+workspace: /home/trang/catkin_ws6

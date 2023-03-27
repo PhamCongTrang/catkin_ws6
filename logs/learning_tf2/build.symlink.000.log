@@ -1,0 +1,5 @@
+Symlinking /home/trang/catkin_ws6/devel/lib/pkgconfig/learning_tf2.pc
+Symlinking /home/trang/catkin_ws6/devel/lib/learning_tf2/turtle_tf2_listener
+Symlinking /home/trang/catkin_ws6/devel/lib/learning_tf2/turtle_tf2_broadcaster
+Symlinking /home/trang/catkin_ws6/devel/share/learning_tf2/cmake/learning_tf2Config.cmake
+Symlinking /home/trang/catkin_ws6/devel/share/learning_tf2/cmake/learning_tf2Config-version.cmake

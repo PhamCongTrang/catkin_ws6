@@ -1,0 +1,1 @@
+/home/trang/catkin_ws6/devel/.private/tf2_msgs/lib/pkgconfig/tf2_msgs.pc

@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/trang/catkin_ws6/devel/lib/python3/dist-packages",
+        "/home/trang/catkin_ws5/devel/lib/python3/dist-packages",
+        "/home/trang/catkin_ws4/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

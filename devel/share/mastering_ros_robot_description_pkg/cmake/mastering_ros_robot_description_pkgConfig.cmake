@@ -1,0 +1,1 @@
+/home/trang/catkin_ws6/devel/.private/mastering_ros_robot_description_pkg/share/mastering_ros_robot_description_pkg/cmake/mastering_ros_robot_description_pkgConfig.cmake

@@ -1,0 +1,7 @@
+Symlinking /home/trang/catkin_ws6/devel/lib/libtf2_ros.so
+Symlinking /home/trang/catkin_ws6/devel/lib/python3/dist-packages/tf2_ros/__init__.py
+Symlinking /home/trang/catkin_ws6/devel/lib/pkgconfig/tf2_ros.pc
+Symlinking /home/trang/catkin_ws6/devel/lib/tf2_ros/buffer_server
+Symlinking /home/trang/catkin_ws6/devel/lib/tf2_ros/static_transform_publisher
+Symlinking /home/trang/catkin_ws6/devel/share/tf2_ros/cmake/tf2_rosConfig.cmake
+Symlinking /home/trang/catkin_ws6/devel/share/tf2_ros/cmake/tf2_rosConfig-version.cmake

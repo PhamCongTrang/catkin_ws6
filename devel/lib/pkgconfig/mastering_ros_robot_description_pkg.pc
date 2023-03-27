@@ -1,0 +1,1 @@
+/home/trang/catkin_ws6/devel/.private/mastering_ros_robot_description_pkg/lib/pkgconfig/mastering_ros_robot_description_pkg.pc

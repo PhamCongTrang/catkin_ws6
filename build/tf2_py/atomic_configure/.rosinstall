@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/trang/catkin_ws6/devel/.private/tf2_py/setup.sh

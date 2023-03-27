@@ -1,0 +1,8 @@
+prefix=/home/trang/catkin_ws6/devel/.private/tf2_msgs
+
+Name: tf2_msgs
+Description: Description of tf2_msgs
+Version: 0.7.6
+Cflags: -I/home/trang/catkin_ws6/devel/.private/tf2_msgs/include -I/home/trang/catkin_ws6/src/geometry2-noetic-devel/tf2_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_generation geometry_msgs actionlib_msgs

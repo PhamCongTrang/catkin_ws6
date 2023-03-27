@@ -1,0 +1,4 @@
+Symlinking /home/trang/catkin_ws6/devel/lib/libtf2.so
+Symlinking /home/trang/catkin_ws6/devel/lib/pkgconfig/tf2.pc
+Symlinking /home/trang/catkin_ws6/devel/share/tf2/cmake/tf2Config-version.cmake
+Symlinking /home/trang/catkin_ws6/devel/share/tf2/cmake/tf2Config.cmake
